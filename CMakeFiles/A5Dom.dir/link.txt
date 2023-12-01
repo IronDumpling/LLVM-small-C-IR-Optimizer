@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fno-rtti -shared -Wl,-soname,libA5Dom.so -o libA5Dom.so CMakeFiles/A5Dom.dir/A5Dom.cpp.o 

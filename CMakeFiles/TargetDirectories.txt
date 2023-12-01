@@ -1,0 +1,7 @@
+/homes/z/zhan7417/ece467/lab5/CMakeFiles/intrinsics_gen.dir
+/homes/z/zhan7417/ece467/lab5/CMakeFiles/omp_gen.dir
+/homes/z/zhan7417/ece467/lab5/CMakeFiles/acc_gen.dir
+/homes/z/zhan7417/ece467/lab5/CMakeFiles/RISCVTargetParserTableGen.dir
+/homes/z/zhan7417/ece467/lab5/CMakeFiles/A5Dom.dir
+/homes/z/zhan7417/ece467/lab5/CMakeFiles/edit_cache.dir
+/homes/z/zhan7417/ece467/lab5/CMakeFiles/rebuild_cache.dir
